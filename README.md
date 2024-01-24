@@ -16,7 +16,7 @@
 ##
 ## Developers Contect 
 - [Muhammd Bin Zain](mailto:l226618@lhr.nu.edu.pk)
-
+- [Tayham Haseeb](mailto:l226896@lhr.nu.edu.pk)
   
 *All rights are reserved*
 
